@@ -1,0 +1,3 @@
+case 'custom-cmd':
+  // Type your commands...
+  break;
