@@ -1,5 +1,6 @@
 // ShellWeb32 Default Plugin
 // This is a template for creating plugins
+// Author: KRCat
 
 registerCommand('custom-cmd', function(args, print, currentUser, currentNickname) {
     print('Hello, its custom commands, logic, etc...', 'plugin');
