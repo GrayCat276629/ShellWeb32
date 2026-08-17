@@ -7,4 +7,4 @@ registerCommand('calc', function(args, print) {
     } catch {
         print('Invalid expression', 'error');
     }
-});
+}, 'Calculator in ShellWeb32');
