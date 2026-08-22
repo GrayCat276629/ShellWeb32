@@ -1,10 +1,7 @@
-// amogus
-// amogus
-// amogus
-// amogus
-// krcat
-print('          __/-----\', 'error');
-print('         |  |  ___|', 'error');
-print('         |  | |___|', 'error');
-print('         \__|  _  |', 'error');
-print('            |_| |_|', 'error');
+// Amogus
+// By KRCat
+print('   /------\\');
+print(' --|   ___|');
+print('|__|  |___|');
+print('   |      |');
+print('   |_|  |_|');
