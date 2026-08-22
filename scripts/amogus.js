@@ -1,6 +1,6 @@
 // Amogus
 // By KRCat
-print('   /------\\');
+print('   /------\\\\');
 print(' --|   ___|');
 print('|__|  |___|');
 print('   |      |');
