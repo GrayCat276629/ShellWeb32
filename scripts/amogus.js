@@ -1,7 +1,7 @@
 // Amogus
 // By KRCat
-print('   /------\\\\');
-print(' --|   ___|');
-print('|__|  |___|');
-print('   |      |');
-print('   |_|  |_|');
+print('    ______', 'error');
+print(' __|   ___|', 'error');
+print('|  |  |___|', 'error');
+print('|__|      |', 'error');
+print('   |_|  |_|', 'error');
