@@ -30,7 +30,8 @@
 > > about
 > > 
 > > version -- f10.1-nell
-> > 
+> >
+> > rawhttp (rawurl) -- Executes other raw content
 > > st.script (file name.js) -- Starting script in reposity folder: scripts
 > > 
 > > ins.plugin (plugin name.js) -- Starting javascript plugin in reposity folder: plugin
